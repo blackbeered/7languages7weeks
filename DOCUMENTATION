@@ -1,0 +1,45 @@
+############################
+## 7 Languages in 7 Weeks ##
+############################
+
+
+Themen:
+- Infrastruktur (vermutlich Cloud9) -> nach Git pushen 
+
+- Coding Dojo - Aufgaben
+ - Sammlung an möglichen Aufgaben erarbeiten
+ - spontan schauen, welches eignet sich jeweils?
+
+- Ablauf des Lese-Seminars
+ ~ 2 Wochen pro Kapitel zum Lesen und Rumcoden at home
+ ~ einmal wöchtenlich treffen zur Absprache
+ ~ 1-2 Coding Dojos zu jedem Kapitel
+ 
+ Kickoff-Termin am Dienstag, den 24. März 16-17:30
+ 
+ nächste Termin Dienstag, 31. März 16:00-17:30 Uhr, MGe 
+ - Besprechung Kapitel 1
+ - Planung des Coding Dojos (welche Aufgabe eignet sich für das Kapitel)
+ 
+ 
+Todos für morgen:
+- konkreter Ablauf/Termine 
+- Aufgaben erarbeiten
+- 2-3 Sprachen ausprobieren
+
+
+
+
+Fokus der Sprachen innerhalb des Buches:
+Ruby:
+- OOP
+- Metaprogrammierung -> erhöht unter anderem die Lesbarkeit
+
+Io:
+- Nebenläufigkeit
+- minimal Syntax
+- Prototysprache
+- MessageDispatch
+
+
+
