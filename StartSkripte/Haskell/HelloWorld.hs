@@ -1,5 +1,9 @@
 -- interaktive Konsole:
 -- ghci
+
+-- :load HelloWorld.hs
+-- main
+
 -- beenden mit :quit
 
 -- runMe:

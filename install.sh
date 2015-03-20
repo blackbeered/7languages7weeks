@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# http://wiki.ubuntuusers.de/Programmierung
+
 # datei vorher executable machen mit 
 #   chmod +x filename.sh
 # ausführen mit ./ filename.sh

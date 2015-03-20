@@ -19,6 +19,11 @@ class MyGreeter
 
 end
 
+class Test
+    def bla()
+        puts "hlo"
+    end
+end
 
 s = MyGreeter.new("Tim und Struppi");
 s.sag_hallo();
