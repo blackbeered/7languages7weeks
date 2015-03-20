@@ -23,7 +23,8 @@
     erlang_module_info/0,
     fac/1,
     len/1,
-    increaseListItems/1
+    increaseListItems/1,
+    decreaseListItems/1
 ]).
 
 % print example
@@ -78,6 +79,8 @@ increaseListItems(L) ->
     {Result}.
     
 % Anonyme Funktionen
+decreaseListItems(L) ->
+    {map(fun(X) -> X + 1 end, L)}
 
 
 

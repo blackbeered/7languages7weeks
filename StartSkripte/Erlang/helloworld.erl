@@ -9,7 +9,7 @@
 % HelloWorld:module_info(). - shows module info
 
 % first statement in an erlang file, module name
--module(HelloWorld).
+-module(helloworld).
 
 % API, modules interface
 -export([hello_world/0]).
