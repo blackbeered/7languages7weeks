@@ -81,6 +81,15 @@ increaseListItems(L) ->
 % Anonyme Funktionen
 decreaseListItems(L) ->
     {map(fun(X) -> X + 1 end, L)}
+    
+filter(Predicate, L) -> list:reverse(Predicate, L, Acc);
+filter(_, [], Acc) -> Acc;
+filter(Predicate, [H|T], Acc) -> 
+    case Predicate(H) of 
+        true -> filter(Predicate, T, [H|Acc])
+        false -> filter(Predicate, T, Acc)
+    end.
+    
 
 
 
